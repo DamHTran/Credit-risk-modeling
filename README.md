@@ -19,7 +19,7 @@ Kolmogorov-Smirnov:35.5
 Picture 2
 ### Applying model
 Creating Scorecard 
-![alt text](https://www.facebook.com/messenger_media/?thread_id=100003165391867&attachment_id=401507617656718&message_id=mid.%24cAABa880mS_t8GMnOEl154SDaWEaI)
+![alt text](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/126324420_3458545360927610_686647069258020109_n.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=to-GHPwpQVYAX_skD_p&_nc_ht=scontent-lht6-1.xx&oh=05675c955220d5c5d34218ffefb71a5a&oe=5FDF79B3)
 
 ## LGD Model
 Split data 80:20, random_state : 42
