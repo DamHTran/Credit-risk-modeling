@@ -12,10 +12,15 @@
 ## PD model
 ### Model
 Split data 80:20, random_state : 42
+
 * Logistic Regression
+
 roc_auc_score: 74.1 
+
 ![alt text](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/126205700_3458553244260155_809034677528929086_n.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=J7T2YfNWqB4AX_MkY5C&_nc_ht=scontent-lht6-1.xx&oh=4a3138d2113b922138ed523b578ba874&oe=5FDCDCC5)
+
 Kolmogorov-Smirnov:35.5
+
 ![alt text](https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/126310590_3458553237593489_4205011581836724134_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=qfkKMnRAQxEAX8ziPes&_nc_ht=scontent-lhr8-1.xx&oh=98e9eefcc6151f24a5ede591cae2fb43&oe=5FDD24A9)
 ### Applying model
 Creating Scorecard 
