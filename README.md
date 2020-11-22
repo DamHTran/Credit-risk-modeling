@@ -3,7 +3,7 @@
 ## Overview
 * Creating Scorecard and estimating Expected Lost with main instructions from 365 Data Science's courses
 * Data: Lending Group Loan Data from 2007 - 2018 
-* Credit Score: 350-800
+* Model: Linear and Logistic Regression
 * Expected Lost (EL) = Probability of Default (PD) x Lost Given Default (LGD) x Exposure At Default (EAD)
 
 ## Data preparation
